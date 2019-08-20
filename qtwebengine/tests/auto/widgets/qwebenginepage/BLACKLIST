@@ -1,0 +1,17 @@
+[macCopyUnicodeToClipboard]
+osx
+
+[mouseMovementProperties]
+windows
+
+[getUserMediaRequest]
+windows
+
+[getUserMediaRequestDesktopVideoManyPages]
+windows
+
+[getUserMediaRequestDesktopVideoManyRequests]
+windows
+
+[runJavaScriptFromSlot]
+osx

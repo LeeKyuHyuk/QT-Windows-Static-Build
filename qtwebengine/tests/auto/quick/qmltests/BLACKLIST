@@ -1,0 +1,11 @@
+[WebViewGeopermission::test_deniedGeolocationByUser]
+osx
+
+[WebViewGeopermission::test_geoPermissionRequest]
+osx
+
+[WebViewFindText::test_findTextInterruptedByLoad]
+*
+
+[WebEngineViewSource::test_viewSourceURL]
+*
